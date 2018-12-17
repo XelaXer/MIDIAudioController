@@ -1,0 +1,19 @@
+﻿  MIDIAudioControl.cpp
+c:\users\alexa\desktop\midiaudiocontrol\midiaudiocontrol\midiaudiocontrol\midiaudiocontrol.cpp(74): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexa\desktop\midiaudiocontrol\midiaudiocontrol\midiaudiocontrol\midiaudiocontrol.cpp(95): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexa\desktop\midiaudiocontrol\midiaudiocontrol\midiaudiocontrol\midiaudiocontrol.cpp(96): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexa\desktop\midiaudiocontrol\midiaudiocontrol\midiaudiocontrol\midiaudiocontrol.cpp(112): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexa\desktop\midiaudiocontrol\midiaudiocontrol\midiaudiocontrol\midiaudiocontrol.cpp(113): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexa\desktop\midiaudiocontrol\midiaudiocontrol\midiaudiocontrol\midiaudiocontrol.cpp(150): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexa\desktop\midiaudiocontrol\midiaudiocontrol\midiaudiocontrol\midiaudiocontrol.cpp(151): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexa\desktop\midiaudiocontrol\midiaudiocontrol\midiaudiocontrol\midiaudiocontrol.cpp(169): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexa\desktop\midiaudiocontrol\midiaudiocontrol\midiaudiocontrol\midiaudiocontrol.cpp(170): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexa\desktop\midiaudiocontrol\midiaudiocontrol\midiaudiocontrol\midiaudiocontrol.cpp(182): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexa\desktop\midiaudiocontrol\midiaudiocontrol\midiaudiocontrol\midiaudiocontrol.cpp(210): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexa\desktop\midiaudiocontrol\midiaudiocontrol\midiaudiocontrol\midiaudiocontrol.cpp(215): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+  Generating code
+  1 of 1142 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  MIDIAudioControl.vcxproj -> C:\Users\alexa\Desktop\MIDIAudioControl\MIDIAudioControl\Release\MIDIAudioControl.exe

@@ -1,0 +1,35 @@
+﻿  stdafx.cpp
+  Actuator.cpp
+  Knob.cpp
+  MIDIAudioControl.cpp
+c:\users\alexa\desktop\midiaudiocontrol\midiaudiocontrol\midiaudiocontrol\midiaudiocontrol.cpp(10): warning C4005: 'SAFE_RELEASE': macro redefinition
+  c:\users\alexa\desktop\midiaudiocontrol\midiaudiocontrol\midiaudiocontrol\windowsaudiocontroller.h(31): note: see previous definition of 'SAFE_RELEASE'
+c:\users\alexa\desktop\midiaudiocontrol\midiaudiocontrol\midiaudiocontrol\midiaudiocontrol.cpp(163): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexa\desktop\midiaudiocontrol\midiaudiocontrol\midiaudiocontrol\midiaudiocontrol.cpp(188): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexa\desktop\midiaudiocontrol\midiaudiocontrol\midiaudiocontrol\midiaudiocontrol.cpp(198): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexa\desktop\midiaudiocontrol\midiaudiocontrol\midiaudiocontrol\midiaudiocontrol.cpp(199): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexa\desktop\midiaudiocontrol\midiaudiocontrol\midiaudiocontrol\midiaudiocontrol.cpp(217): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexa\desktop\midiaudiocontrol\midiaudiocontrol\midiaudiocontrol\midiaudiocontrol.cpp(218): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexa\desktop\midiaudiocontrol\midiaudiocontrol\midiaudiocontrol\midiaudiocontrol.cpp(220): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexa\desktop\midiaudiocontrol\midiaudiocontrol\midiaudiocontrol\midiaudiocontrol.cpp(315): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexa\desktop\midiaudiocontrol\midiaudiocontrol\midiaudiocontrol\midiaudiocontrol.cpp(332): warning C4101: 'client': unreferenced local variable
+c:\users\alexa\desktop\midiaudiocontrol\midiaudiocontrol\midiaudiocontrol\midiaudiocontrol.cpp(414): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexa\desktop\midiaudiocontrol\midiaudiocontrol\midiaudiocontrol\midiaudiocontrol.cpp(419): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+  MIDIController.cpp
+c:\users\alexa\desktop\midiaudiocontrol\midiaudiocontrol\midiaudiocontrol\midicontroller.cpp(66): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  WindowsAudioController.cpp
+c:\users\alexa\desktop\midiaudiocontrol\midiaudiocontrol\midiaudiocontrol\windowsaudiocontroller.cpp(31): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexa\desktop\midiaudiocontrol\midiaudiocontrol\midiaudiocontrol\windowsaudiocontroller.cpp(38): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexa\desktop\midiaudiocontrol\midiaudiocontrol\midiaudiocontrol\windowsaudiocontroller.cpp(45): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexa\desktop\midiaudiocontrol\midiaudiocontrol\midiaudiocontrol\windowsaudiocontroller.cpp(143): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexa\desktop\midiaudiocontrol\midiaudiocontrol\midiaudiocontrol\windowsaudiocontroller.cpp(156): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexa\desktop\midiaudiocontrol\midiaudiocontrol\midiaudiocontrol\windowsaudiocontroller.cpp(164): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexa\desktop\midiaudiocontrol\midiaudiocontrol\midiaudiocontrol\windowsaudiocontroller.cpp(172): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexa\desktop\midiaudiocontrol\midiaudiocontrol\midiaudiocontrol\windowsaudiocontroller.cpp(343): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexa\desktop\midiaudiocontrol\midiaudiocontrol\midiaudiocontrol\windowsaudiocontroller.cpp(391): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexa\desktop\midiaudiocontrol\midiaudiocontrol\midiaudiocontrol\windowsaudiocontroller.cpp(396): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexa\desktop\midiaudiocontrol\midiaudiocontrol\midiaudiocontrol\windowsaudiocontroller.cpp(404): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexa\desktop\midiaudiocontrol\midiaudiocontrol\midiaudiocontrol\windowsaudiocontroller.cpp(421): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+c:\users\alexa\desktop\midiaudiocontrol\midiaudiocontrol\midiaudiocontrol\midicontroller.cpp(48): warning C4715: 'MIDIController::getVolumeKnobValue': not all control paths return a value
+  MIDIAudioControl.vcxproj -> C:\Users\alexa\Desktop\MIDIAudioControl\MIDIAudioControl\Debug\MIDIAudioControl.exe
